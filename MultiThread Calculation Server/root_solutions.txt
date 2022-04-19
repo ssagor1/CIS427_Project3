@@ -1,0 +1,4 @@
+Radius 23.0: Circle’s circumference is 144.51 and area is 1661.90
+Sides 12.0 2.0: Rectangle’s perimeter is 28.00 and area is 24.00
+Side 3.0: Rectangle’s perimeter is 12.00 and area is 9.00
+Sides 4.0 10.0: Rectangle's perimeter is 28.00 and area is 40.00
